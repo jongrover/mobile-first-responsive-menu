@@ -1,0 +1,13 @@
+.main-nav a {
+  display: block;
+}
+
+.mobile-icon {
+  display: none; /* No JS */
+}
+
+@media only screen and (min-width: 500px) {
+  .main-nav a {
+    display: inline;
+  }
+}
