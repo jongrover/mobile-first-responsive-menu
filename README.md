@@ -1,6 +1,6 @@
-# Mobile First responsive Navigation
+# Mobile First Responsive Navigation (Unstyled)
 
-A simple mobile first based responsive navigation that uses progressive enhancement so menu only appears if JavaScript is available, otherwise if no JavaScript is present users still have access to the essential navigation links.
+A simple mobile first based responsive navigation that uses progressive enhancement so menu only appears if JavaScript is available, otherwise if no JavaScript is present users still have access to the essential navigation links. there is no additonal style so you can add your own CSS.
 
 Created by: hello@jonathangrover.com
 
