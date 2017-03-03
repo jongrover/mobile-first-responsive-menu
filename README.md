@@ -5,3 +5,5 @@ A simple mobile first based responsive navigation that uses progressive enhancem
 Created by: hello@jonathangrover.com
 
 MIT License!
+
+Demo at: https://jongrover.github.io/mobile-first-responsive-menu/
